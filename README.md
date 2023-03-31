@@ -1,13 +1,19 @@
-# Look Closer
+# [Apollo: Jade website template](http://buckymaler.com/apollo)
 
-This is a project developed for the Laboratory held by Prof. Francesca Tomasi in the a.a. 2021/2022. The course is part of the Master Degree Digital Humanities and Digital Knowledge at the University of Bologna.
-The website includes a presentation of the project, which consists of a combination of three topics that were part of the course.
+### [Featured on Freebiesbug](http://freebiesbug.com/code-stuff/apollo-one-page-html-template-photographers/)
 
-## Storytelling
-The project Look Closer includes a story developed based on typical storytelling structure, as presented in the second part of the course by Prof. Federico Meschini.
+Apollo is a minimal, thoughtfully designed single page website template, and serves as the perfect showcase for a professional photographer.
 
-## Object digitisation with 3DFZephyr
-The concepts and examples provided in the fifth part of the course by Prof. Daniele Ferdani have been applied to produce three 3D models of three different objects using the software 3DFZephyr.
+Here you can find the original [PSD](https://symu.co/freebies/templates-4/apollo-psd-template/)
+by Jakub Kowalczyk.
 
-## 3D model with Blender 
-The open source software Blender was used to build a 3D model of a landscape, one of the locations of the story.
+This project was developed with Jade, Sass, and jQuery.
+
+Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+
+[LIVE PREVIEW](http://buckymaler.com/apollo)
+
+## Misc:
+
+* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
+* Follow Jakub: [Twitter](https://twitter.com/jakubdesign)
