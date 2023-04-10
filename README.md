@@ -1,4 +1,4 @@
-# Look Closer
+<img width="1350" alt="Screenshot 2023-04-10 alle 11 01 36" src="https://user-images.githubusercontent.com/72857617/230955618-344c3555-b0ef-49d7-aedf-d03dd03949f5.png">
 Look Closer is a project created for the Laboratory course taught by Professor Francesca Tomasi during the academic year 2021/2022 as part of the Master's Degree in Digital Humanities and Digital Knowledge at the University of Bologna. The website showcases the project, which integrates three topics covered in the course.
 
 
